@@ -10,7 +10,7 @@ The app also has a desktop PC, Mac, Linux counterpart which also is free and ope
 
 See [Finalpass](https://haha150.github.io/finalpass) for more information.
 
-<a href="https://apps.apple.com/us/app/wt-watch-app-for-tesla/id1669061755?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1650067200&h=f0472da4e15471343332be1dcdc56ae8" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+<a href="https://apps.apple.com/us/app/finalpass/id6462782822?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1650067200&h=f0472da4e15471343332be1dcdc56ae8" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 ## Feature request
 
